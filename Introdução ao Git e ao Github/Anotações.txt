@@ -5,6 +5,10 @@ Repositório criado para o Desafio de Projeto.
 ## Links úteis
 
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+Comandos Git: 
+https://comandosgit.github.io
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
 
 Link para download do Git:
 https://git-scm.com/downloads
@@ -12,6 +16,7 @@ https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git
 
 Este módulo foi uma introdução a utilização do Git e do GitHub
+
 
 DESCRIÇÃO
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático,
