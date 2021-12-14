@@ -15,14 +15,6 @@ Nível: Intermediário
 
 No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvimento de software para criar soluções digitais, para atuar em projetos de desenvolvimento web e de componentes da interface de usuários. O Órbi Conecta é um dos principais hubs de inovação do Brasil e o Órbi Academy Techboost, sendo um dos maiores programas brasileiros de formação em carreiras de tecnologia e distribuirá mais de 130 mil bolsas de estudo até 2022, impactando toda a comunidade tech brasileira.
 
-**Links úteis:**
-
-<a href="https://web.dio.me/home">Digital Innovation One</a>
-
-<a href="https://github.com/viniciuskurt/Certificados">Meus Certificados</a>
-
-
-
 ### Módulos:
 
 - Boas-vindas ao Bootcamp MRV Fullstack Developer
@@ -38,4 +30,14 @@ No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvim
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - Mentoria #2: Como ser o próximo contratado pelo MRV
 - Introdução a criação de websites com HTML5 e CSS3
+
+
+
+
+
+**Links úteis:**
+
+<a href="https://web.dio.me/home">Digital Innovation One</a>
+
+<a href="https://github.com/viniciuskurt/Certificados">Meus Certificados</a>
 

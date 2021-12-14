@@ -1,0 +1,8 @@
+Aprenda o que são Estrutura de Dados e Algoritmos, Introdução e Objetivos
+
+Instrutor
+Bruno Campos
+
+- Conceitos iniciais sobre estrutura da dados, arrays e registros
+- Entenda o que são Lista, Pilhas e Filas
+- Estrutura de dados tipo Árvore, Tabela Hash e Grafos

@@ -1,0 +1,7 @@
+Entendendo o que é lógica de Programação
+
+Instrutor
+Denilson Bonatti
+
+- Introdução a Lógica e Pseudocódigo
+- Introdução a Portugol
