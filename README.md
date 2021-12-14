@@ -19,7 +19,7 @@ No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvim
 
 - Boas-vindas ao Bootcamp MRV Fullstack Developer
 
-- Mentoria #1: Aula Inaugural - Bootcamp MRV Fullstack Developer
+- Mentoria 1: Aula Inaugural - Bootcamp MRV Fullstack Developer
 
 - Lógica de Programação Essencial
 
@@ -28,7 +28,7 @@ No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvim
 - Aprenda o que são Estrutura de Dados e Algoritmos
 
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- Mentoria #2: Como ser o próximo contratado pelo MRV
+- Mentoria 2: Como ser o próximo contratado pelo MRV
 - Introdução a criação de websites com HTML5 e CSS3
 
 

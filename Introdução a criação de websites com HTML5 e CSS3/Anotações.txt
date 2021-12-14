@@ -1,0 +1,21 @@
+Front End Engineer
+Lucas Vilaboim
+
+
+- Introdução HTML
+- Semântica
+- Links
+- Imagens
+- Listas
+- CSS
+- Estilizando
+- Dimensão e Alinhamento
+
+
+Tudo no HTML é um elemento,
+todo elemento começa com uma tag de abertura,
+seguido do tipo de elemento que pode ter um atributo.
+
+
+Links:
+site para otimizar imagem = https://tinypng.com
