@@ -17,4 +17,4 @@ No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvim
 
 Links úteis:
 
-[DIO](https://web.dio.me/home)
+<a href [DIO](https://web.dio.me/home) >
