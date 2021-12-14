@@ -1,4 +1,4 @@
-# Repositório do Bootcamp Dio - MRV Fullstack Developer
+# Repositório Bootcamp MRV Fullstack Developer
 
 ## Repositório criado para o Bootcamp MRV Fullstack Developer, oferecido pela Digital Inovation One (DIO)
 
