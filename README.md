@@ -17,4 +17,6 @@ No Bootcamp MRV Fullstack Developer você aprenderá os conceitos de desenvolvim
 
 **Links úteis:**
 
-<a target="_blank" href="https://web.dio.me/home">Digital Innovation One</a>
+<a href="https://web.dio.me/home">Digital Innovation One</a>
+
+Acessar Certificados: <a href="https://github.com/viniciuskurt/Certificados"/>
