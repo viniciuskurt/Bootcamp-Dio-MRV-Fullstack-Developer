@@ -1,4 +1,4 @@
-# Bootcamp MRV Fullstack Developer  <img src=https://github.com/viniciuskurt/Bootcamp-Dio-MRV-Fullstack-Developer/blob/main/img/logo-booctamp-MRV.png>
+# Bootcamp MRV Fullstack Developer  <img src=https://github.com/viniciuskurt/Bootcamp-Dio-MRV-Fullstack-Developer/blob/main/img/logo-booctamp-MRV.png height="220px" //>
 
 ## Repositório criado para o Bootcamp MRV Fullstack Developer, oferecido pela Digital Inovation One (DIO)
 
