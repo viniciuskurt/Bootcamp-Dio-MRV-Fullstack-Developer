@@ -1,8 +1,5 @@
 # Bootcamp MRV Fullstack Developer  < <img src=https://github.com/viniciuskurt/Bootcamp-Dio-MRV-Fullstack-Developer/blob/main/img/logo-booctamp-MRV.png>
 
-# Bootcamp MRV Fullstack Developer  [](https://github.com/viniciuskurt/Bootcamp-Dio-MRV-Fullstack-Developer/blob/main/img/logo-booctamp-MRV.png)
->>>>>>> 2cb3c1f6cbc9fd874e0dc300367a37ab1fa377da
-
 ## Repositório criado para o Bootcamp MRV Fullstack Developer, oferecido pela Digital Inovation One (DIO)
 
 Carga Horária: 107 hrs
