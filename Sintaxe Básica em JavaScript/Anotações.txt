@@ -1,0 +1,17 @@
+JS é uma linguagem de programação de alto nível, 
+que integra od esenvolvimento de pps e páginas web
+
+
+Em 1995 o programador Brendan Eich que trabalhava na
+Netscape, implementou uma linguagem de programação chamada
+Mocha, depois o nome mudou para LiveScript, mas na época a
+linguagem Java era popular, então mudaram LiveScript para
+JavaScript como jogada de marketing.
+
+A confusão entre JavaScript e Java é culpa dos marketeiros.
+
+
+Ao criar uma variável com valor entre aspas("valor") javascript já converte o dado
+para tipo String.
+
+Se criar var = numero = 1; Js já converte o valor 1 p/ tipo number

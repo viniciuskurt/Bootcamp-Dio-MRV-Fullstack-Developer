@@ -1,0 +1,15 @@
+Neste curso vamos entender o que é o javascript, as necessidades 
+que esta linguagem atende e as diversas possibilidades dentro do
+mercado de trabalho
+
+Stephany Nusch
+Software Engineer Quinto Andar
+
+Instalar NODE
+https://nodejs.org/en/
+
+pastas assets = todos os seus arquivos que não são html
+
+Frameworks{ VueJS, Angulgar, React }
+
+
