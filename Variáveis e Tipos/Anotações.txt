@@ -1,0 +1,12 @@
+VAR - variável palavra reservada normal (pode redeclarar)
+
+LET - váriavel de escopo de bloco, 
+ou seja só vai funcionar dentro de determinado bloco (não pode redeclarar)(Pode reatribuir)
+Sempre q tiver let é necessário declarar no início do bloco
+
+
+HOISTING - conceito de atribuir um valor a uma variável, antes de vc declarar ela
+
+Constantes - declaradas em SNAKE_UPPER_CASE, possui escopo de bloco
+e não faz hoisting
+
