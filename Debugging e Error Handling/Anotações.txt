@@ -1,0 +1,18 @@
+Num retorno de erro, se vc utiliza um Return, o erro retorna uma string qualquer q vc 
+especifique
+
+se vc usar Throw - tem o comportamento do console dizendo que houve um erro
+
+--------------
+
+TRY.... CATCH
+
+Dentro do Try vc verifica um bloco de código onde se houver erro, será tratado
+na função Catch, podendo manipulá-lo. 
+(catch permite manipular propriedades do erro de maneira personalizada)
+--------
+
+Finally (não obrigatório)
+instrução chamada independente de se ter um erro ou não.
+Pedaço de código que executa depois das verificações
+Caso apresente erro aparece mensagem, caso não apresente também
