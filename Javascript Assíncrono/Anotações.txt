@@ -1,0 +1,18 @@
+Assincrono é algo que não ocorre ou não se efetiva ao mesmo tempo
+
+Ex:
+Estudo Sincrono -> estudantes vão para um curso numa data específica, no tempo 
+específico, não fazendo mais nenhuma outra coisa.
+
+Estudo Assincrono -> aprendizado online onde cada estudante faz as coisas no
+seu próprio tempo e rítimo
+
+
+Promisse -> vc compra um ingresso pra um show em um determinado dia.
+O ingresso é a promessa que vc vai ver o show naquele dia.
+Depois de ter o ingresso na mão, pode haver vários resultados, inicialmente
+seu valor é desconhecido, pode ser resolvido ou rejeitado, ou seja vc vê o show
+há algum problema.
+Vc recebe o valor mas não tem o resultado ainda, só tem o resultado um tempo depois
+
+Fetch -> retorna uma promisse
