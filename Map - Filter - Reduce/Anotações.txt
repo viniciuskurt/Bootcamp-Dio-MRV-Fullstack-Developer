@@ -1,0 +1,19 @@
+Map, Filter e Reduce
+
+Métodos importantes para Arrays
+
+Map - cria um novo array, não altera o array original, realiza operações em ordem
+
+(forEach faz a msm coisa que o MAP, porém retorna undefined) 
+basicamente a diferença é o valor de retorno - consderar se o array auxiliar 
+é necessário.
+
+
+Callback: função a ser executada em cada elemento
+
+
+Filter - cria um novo array, não altera o array original, cria uma lista 
+apenas com os itens que passaram pelo filtro criado
+
+Reduce - executa uma função em todos os elementos do array, retornando um
+valor único

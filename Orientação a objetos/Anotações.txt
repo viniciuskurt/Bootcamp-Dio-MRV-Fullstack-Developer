@@ -1,0 +1,4 @@
+Programação Paradigmas
+Imperativa -> como vc vai resolver os problemas?
+
+Declarativa -> o que vc vai fazer? 
