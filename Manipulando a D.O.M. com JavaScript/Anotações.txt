@@ -1,0 +1,3 @@
+O DOM está dentro do BOM
+
+O Dom manipula apenas o HTML dentro da estrutura do navegador
