@@ -1,3 +1,5 @@
+/* multiplicação de números com o parâmetro this de um objeto criado*/
+
 const maca = {
     value:2,
 }
