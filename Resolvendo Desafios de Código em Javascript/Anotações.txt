@@ -1,0 +1,3 @@
+Todo código é formado por 3 etapas:
+Entrada, Processamento e Saída
+
